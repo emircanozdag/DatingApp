@@ -67,3 +67,11 @@
 /Users/emircanozdag/DatingApp/API/obj/Debug/net7.0/API.pdb
 /Users/emircanozdag/DatingApp/API/obj/Debug/net7.0/API.genruntimeconfig.cache
 /Users/emircanozdag/DatingApp/API/obj/Debug/net7.0/ref/API.dll
+/Users/emircanozdag/DatingApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Abstractions.dll
+/Users/emircanozdag/DatingApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.JsonWebTokens.dll
+/Users/emircanozdag/DatingApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Logging.dll
+/Users/emircanozdag/DatingApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Tokens.dll
+/Users/emircanozdag/DatingApp/API/bin/Debug/net7.0/System.IdentityModel.Tokens.Jwt.dll
+/Users/emircanozdag/DatingApp/API/bin/Debug/net7.0/Microsoft.AspNetCore.Authentication.JwtBearer.dll
+/Users/emircanozdag/DatingApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.dll
+/Users/emircanozdag/DatingApp/API/bin/Debug/net7.0/Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
