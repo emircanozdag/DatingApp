@@ -14,15 +14,11 @@ export class HomeComponent implements OnInit {
 
   }
   ngOnInit(): void {
-    this.getCurrentUser();
+    // console.log(this.registerMode);
+    // const user = localStorage.getItem('user');
+    // if (user) this.registerMode = !this.registerMode
   }
-  getCurrentUser() {
-    this.http.get('https://localhost:5001/api/users').subscribe({
-      next: response => this.users = response,
-      error: error => console.log(error),
-      complete: () => console.log('Request has completed')
-    })
-  }
+
   registerToggle() {
     this.registerMode = !this.registerMode;
     console.log(this.registerMode);
